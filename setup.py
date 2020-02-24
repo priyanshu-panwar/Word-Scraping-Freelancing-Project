@@ -34,7 +34,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'wheel==0.29.0',
-        'django==1.10.5',
+        'django==1.11.28',
         'nltk==3.2.2',
         'pandas==0.19.2',
         'matplotlib==2.0.0',
