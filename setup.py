@@ -35,7 +35,7 @@ setup(
     install_requires=[
         'wheel==0.29.0',
         'django==1.10.5',
-        'nltk==3.2.2',
+        'nltk==3.4.5',
         'pandas==0.19.2',
         'matplotlib==2.0.0',
         'seaborn==0.7.1',
